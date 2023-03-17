@@ -1,117 +1,102 @@
 [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
-      },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
-      },
-      "phone": "493-170-9623 x156",
-      "website": "kale.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
-      "address": {
-        "street": "Skiles Walks",
-        "suite": "Suite 351",
-        "city": "Roscoeview",
-        "zipcode": "33263",
-        "geo": {
-          "lat": "-31.8129",
-          "lng": "62.5342"
-        }
-      },
-      "phone": "(254)954-1289",
-      "website": "demarco.info",
-      "company": {
-        "name": "Keebler LLC",
-        "catchPhrase": "User-centric fault-tolerant solution",
-        "bs": "revolutionize end-to-end systems"
-      }
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Eren Yeager",
+    "Age": "22",
+    "alliance": "Jaegeristas",
+    "origin": "Paradise",
+    "titan": "Yes",
+    "Death": "Yes",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png"
+  },
+  {
+    "id": 2,
+    "name": "Mikasa Ackerman",
+    "Age": "22",
+    "alliance": "Cuerpo de exploración",
+    "origin": "Paradise",
+    "titan": "No",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 3,
+    "name": "Armin Alert",
+    "Age": "22",
+    "alliance": "Cuerpo de exploración",
+    "origin": "Paradise",
+    "titan": "Si",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 4,
+    "name": "Levi Ackerman",
+    "Age": "32",
+    "alliance": "Cuerpo de exploración",
+    "origin": "Paradise",
+    "titan": "No",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 5,
+    "name": "Zeke Jaeger",
+    "Age": "29",
+    "alliance": "Voluntarios Anti-Marleyanos",
+    "origin": "Marley",
+    "titan": "Si",
+    "Death": "Si",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 6,
+    "name": "Historia Reiss",
+    "Age": "22",
+    "alliance": "Gobierno Real",
+    "origin": "Paradise",
+    "titan": "No",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 7,
+    "name": "Annie Leonhart",
+    "Age": "23",
+    "alliance": "Guerreros",
+    "origin": "Marley",
+    "titan": "Si",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 8,
+    "name": "Ymir",
+    "Age": "XX",
+    "alliance": "Cuerpo de exploración",
+    "origin": "Marley",
+    "titan": "Si",
+    "Death": "Si",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 9,
+    "name": "Reiner Braun",
+    "Age": "24",
+    "alliance": "Guerreros",
+    "origin": "Marley",
+    "titan": "Si",
+    "Death": "No",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png"
+  },
+  {
+    "id": 10,
+    "name": "Bertolt Hoover",
+    "Age": "16",
+    "alliance": "Guerreros",
+    "origin": "Marley",
+    "titan": "Si",
+    "Death": "Si",
+    "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png"
+  }
+]
